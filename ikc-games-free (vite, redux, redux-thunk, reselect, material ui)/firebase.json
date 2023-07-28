@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "ik-coding-free-games",
+    "public": "dist",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}

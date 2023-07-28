@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "public": "build",
+    "site": "ik-coding-exchange-rates",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
